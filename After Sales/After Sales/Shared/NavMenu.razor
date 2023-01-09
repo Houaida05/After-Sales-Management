@@ -1,0 +1,109 @@
+﻿@using Microsoft.AspNetCore.Components.Authorization  
+@inject AuthenticationStateProvider AuthenticationStateProvider
+<div class="top-row ps-3 navbar navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="">After Sales</a>
+        <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    </div>
+</div>
+
+<div class="@NavMenuCssClass" @onclick="ToggleNavMenu">
+    <nav class="flex-column">
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                <span class="oi oi-home" aria-hidden="true"></span> Home
+            </NavLink>
+        </div>
+        
+        
+        @if(@isAuthenticated)
+        {
+             <div class="nav-item px-3">
+       
+            <NavLink class="nav-link" href="" @onclick="() =>expandSubMenu = !expandSubMenu">
+                <span aria-hidden="true"></span> Claims
+            </NavLink>
+            
+               
+                
+            @if (expandSubMenu)
+            {
+       
+                <ul class="nav flex-column">
+                    <li class="nav-item px-3">
+                        <NavLink class="expand-menu" style="text-decoration:none;" href="ListClaims">
+                <MatIcon style="padding-right:10px">@MatIconNames.List_alt</MatIcon>  List claim
+            </NavLink>
+                    </li>
+                    <li class="nav-item px-3">
+                        <NavLink class="expand-menu" style="text-decoration:none;" href="CreateClaim">
+                <MatIcon style="padding-right:10px">@MatIconNames.Add_box</MatIcon>  Add claim
+            </NavLink>
+                    </li>
+
+                </ul>
+            
+                
+            }
+            </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="" @onclick="() =>expandSubMenuProduct = !expandSubMenuProduct">
+                    <span aria-hidden="true"></span>  Products
+            </NavLink>
+                @if (expandSubMenuProduct)
+                {
+
+                    <ul class="nav flex-column">
+
+                        <li class="nav-item px-3">
+                            <NavLink class="expand-menu" style="text-decoration:none;" href="ListProducts">
+                                <MatIcon style="padding-right:10px">@MatIconNames.List_alt</MatIcon>  List Product
+                            </NavLink>
+                        </li>
+                        <li class="nav-item px-3">
+                            <NavLink class="expand-menu" style="text-decoration:none;" href="CreateProduct">
+                                <MatIcon style="padding-right:10px">@MatIconNames.Add_box</MatIcon>  Add Product
+                            </NavLink>
+                        </li>
+
+                    </ul>
+
+
+                }
+            </div>
+        }
+        
+       
+    </nav>
+</div>
+
+@code {
+    private bool collapseNavMenu = true;
+    private bool expandSubMenu;
+    private bool expandSubMenuProduct;
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+
+        collapseNavMenu = !collapseNavMenu;
+    }
+    string userAuthenticated;
+    Boolean isAuthenticated;
+    protected override async Task OnInitializedAsync()  
+    {  
+        var authState = await AuthenticationStateProvider.GetAuthenticationStateAsync();  
+        var user = authState.User;
+        isAuthenticated = user.Identity.IsAuthenticated;
+        if (isAuthenticated)  
+        {  
+            userAuthenticated = $"{ user.Identity.Name} is authenticated.";  
+        }  
+        else  
+        {  
+            userAuthenticated = "The user is NOT authenticated.";  
+        }  
+    }  
+}

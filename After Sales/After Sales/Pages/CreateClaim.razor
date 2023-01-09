@@ -1,0 +1,61 @@
+﻿@page "/CreateClaim"
+
+@inherits CreateClaimBase
+<style>
+            .demo-mat-card {
+                max-width: 500px;
+                 margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+            }
+         .demo-mat-card-clean-margin {
+        margin-left: 35%
+            }
+            .but{
+                margin-left:45%; color:black;
+            }
+            .but:hover{
+                 color:red;
+            }
+                    </style>
+
+  <MatCard class="demo-mat-card">
+           
+                    <MatHeadline6 class="demo-mat-card-clean-margin">
+                       Add Claim 
+                       </MatHeadline6>
+                    <MatCardContent>
+                       <EditForm Model="@ClaimDto" OnValidSubmit="HandleValidSubmit">
+    <hr/>
+    <div class="form-group row">      
+                         <MatTextField @bind-Value="ClaimDto.claim.Subject" 
+                          FullWidth="true"
+                         TextArea="true"
+                         Label="What are you complaining about ?" 
+                         HelperTextPersistent="true" 
+                         HelperTextValidation="true">
+                     </MatTextField>
+             </div>
+             <br /> 
+              <div class="form-group row">
+        
+            <MatSelect  Label="Product" @bind-Value="ClaimDto.claim.ProductId"> 
+        
+        @foreach (var p in Products)
+        {
+            <MatOption Value="@p.ProductId">@p.ProductName</MatOption>
+        }
+    </MatSelect>
+            </div>
+            <br />
+        <MatIconButton type="submit" class="but">
+            <MatIcon>@MatIconNames.Touch_app</MatIcon>
+        </MatIconButton>
+</EditForm>
+           </MatCardContent>
+               
+
+            
+        </MatCard>
+
+                 

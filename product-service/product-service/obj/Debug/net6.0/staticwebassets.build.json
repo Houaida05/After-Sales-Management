@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "8xvHPlPaMU4iSqOKg7tOpvGTnKAIig67VJqxeBLITOE=",
+  "Source": "product-service",
+  "BasePath": "_content/product-service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "product-service\\wwwroot",
+      "Source": "product-service",
+      "ContentRoot": "G:\\Génie Informatique 3\\Dotnet\\Projet dotnet\\product-service\\product-service\\wwwroot\\",
+      "BasePath": "_content/product-service",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "G:\\Génie Informatique 3\\Dotnet\\Projet dotnet\\product-service\\product-service\\wwwroot\\Images\\iphone.png",
+      "SourceId": "product-service",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\Génie Informatique 3\\Dotnet\\Projet dotnet\\product-service\\product-service\\wwwroot\\",
+      "BasePath": "_content/product-service",
+      "RelativePath": "Images/iphone.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\iphone.png"
+    },
+    {
+      "Identity": "G:\\Génie Informatique 3\\Dotnet\\Projet dotnet\\product-service\\product-service\\wwwroot\\Images\\laptop.jpg",
+      "SourceId": "product-service",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\Génie Informatique 3\\Dotnet\\Projet dotnet\\product-service\\product-service\\wwwroot\\",
+      "BasePath": "_content/product-service",
+      "RelativePath": "Images/laptop.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\laptop.jpg"
+    },
+    {
+      "Identity": "G:\\Génie Informatique 3\\Dotnet\\Projet dotnet\\product-service\\product-service\\wwwroot\\Images\\laptop2.jpg",
+      "SourceId": "product-service",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\Génie Informatique 3\\Dotnet\\Projet dotnet\\product-service\\product-service\\wwwroot\\",
+      "BasePath": "_content/product-service",
+      "RelativePath": "Images/laptop2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\laptop2.jpg"
+    },
+    {
+      "Identity": "G:\\Génie Informatique 3\\Dotnet\\Projet dotnet\\product-service\\product-service\\wwwroot\\Images\\souris.jpg",
+      "SourceId": "product-service",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\Génie Informatique 3\\Dotnet\\Projet dotnet\\product-service\\product-service\\wwwroot\\",
+      "BasePath": "_content/product-service",
+      "RelativePath": "Images/souris.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\souris.jpg"
+    }
+  ]
+}

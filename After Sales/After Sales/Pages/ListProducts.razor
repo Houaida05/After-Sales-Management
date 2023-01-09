@@ -1,0 +1,89 @@
+﻿@page "/ListProducts"
+@using After_Sales.Model;
+
+@inherits ListProductsBase
+<style>
+    .demo-mat-card {
+        max-width: 400px;
+    }
+
+    .demo-mat-card-content {
+        padding: 1rem;
+    }
+
+    .demo-mat-card-clean-margin {
+        margin: 0px;
+    }
+</style>
+ <div class="container-fluid">
+      <div class="row">
+        @foreach (var p in Products)
+        {
+            <div class="col-md-3">
+                <MatCard class="demo-mat-card">
+                    <MatCardContent>
+
+                        <MatCardMedia Wide="true">
+                            <img style="width:150px" src="https://localhost:7240/apigateway/image?imageName=@p.ProductPhoto" />
+                        </MatCardMedia>
+                        <div class="demo-mat-card-content">
+                            <MatHeadline6 class="demo-mat-card-clean-margin">
+                                @p.ProductName
+                            </MatHeadline6>
+                            <MatSubtitle2 class="demo-mat-card-clean-margin">
+                                @p.ProductPrice
+                            </MatSubtitle2>
+                        </div>
+
+                        <MatBody2 class="demo-mat-card-content demo-mat-card-clean-margin">
+
+                            <MatButton  @onclick="@(() =>@OpenDialog(p.ProductId))" Raised="true">Get SpareParts</MatButton>
+
+                           
+                        </MatBody2>
+                    </MatCardContent>
+                </MatCard>
+                <br />
+                <br />
+            </div>
+          
+        }
+        <MatDialog @bind-IsOpen="@dialogIsOpen">
+            <MatDialogActions>
+                <MatButton OnClick="@(e => { dialogIsOpen = false; })">No Thanks</MatButton>
+               
+            </MatDialogActions>
+
+            @foreach(var s in spareParts)
+            {
+                <p>@s.SparePartName</p>
+                <img style="width:150px" src="https://localhost:7240/apigateway/image?imageName=@s.SparePartImage" />
+
+
+            }
+        </MatDialog>
+</div>
+</div>
+
+@code {
+
+    bool dialogIsOpen = false;
+
+    int productId = 0;
+    void OpenDialog(int id)
+    {
+
+        dialogIsOpen = true;
+        productId = id;
+        OnProductClick(productId);
+
+    }
+
+    void OkClick()
+    {
+
+        dialogIsOpen = false;
+        productId = 0;
+    }
+}
+    

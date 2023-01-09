@@ -1,0 +1,276 @@
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\appsettings.json
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\product-service.exe
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\product-service.deps.json
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\product-service.runtimeconfig.json
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\product-service.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\product-service.pdb
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Humanizer.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\lenovo\source\repos\product-service\product-service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\lenovo\source\repos\product-service\product-service\obj\Debug\net6.0\product-service.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\product-service\product-service\obj\Debug\net6.0\product-service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\product-service\product-service\obj\Debug\net6.0\product-service.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\product-service\product-service\obj\Debug\net6.0\product-service.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\product-service\product-service\obj\Debug\net6.0\product-service.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\product-service\product-service\obj\Debug\net6.0\product-service.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lenovo\source\repos\product-service\product-service\obj\Debug\net6.0\product-service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\source\repos\product-service\product-service\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lenovo\source\repos\product-service\product-service\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lenovo\source\repos\product-service\product-service\obj\Debug\net6.0\scopedcss\bundle\product-service.styles.css
+C:\Users\lenovo\source\repos\product-service\product-service\obj\Debug\net6.0\product-service.csproj.CopyComplete
+C:\Users\lenovo\source\repos\product-service\product-service\obj\Debug\net6.0\product-service.dll
+C:\Users\lenovo\source\repos\product-service\product-service\obj\Debug\net6.0\refint\product-service.dll
+C:\Users\lenovo\source\repos\product-service\product-service\obj\Debug\net6.0\product-service.pdb
+C:\Users\lenovo\source\repos\product-service\product-service\obj\Debug\net6.0\product-service.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\product-service\product-service\obj\Debug\net6.0\ref\product-service.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\appsettings.Development.json
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\appsettings.json
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\product-service.exe
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\product-service.deps.json
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\product-service.runtimeconfig.json
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\product-service.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\product-service.pdb
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Azure.Core.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Azure.Identity.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\FluentValidation.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Humanizer.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Mono.TextTemplating.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Ocelot.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\System.CodeDom.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\System.Memory.Data.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\System.Text.Json.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\obj\Debug\net6.0\product-service.csproj.AssemblyReference.cache
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\obj\Debug\net6.0\product-service.GeneratedMSBuildEditorConfig.editorconfig
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\obj\Debug\net6.0\product-service.AssemblyInfoInputs.cache
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\obj\Debug\net6.0\product-service.AssemblyInfo.cs
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\obj\Debug\net6.0\product-service.csproj.CoreCompileInputs.cache
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\obj\Debug\net6.0\product-service.MvcApplicationPartsAssemblyInfo.cs
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\obj\Debug\net6.0\product-service.MvcApplicationPartsAssemblyInfo.cache
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\obj\Debug\net6.0\staticwebassets\msbuild.product-service.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\obj\Debug\net6.0\staticwebassets\msbuild.build.product-service.props
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.product-service.props
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.product-service.props
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\obj\Debug\net6.0\staticwebassets.pack.json
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\obj\Debug\net6.0\staticwebassets.build.json
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\obj\Debug\net6.0\staticwebassets.development.json
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\obj\Debug\net6.0\scopedcss\bundle\product-service.styles.css
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\obj\Debug\net6.0\product-service.csproj.CopyComplete
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\obj\Debug\net6.0\product-service.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\obj\Debug\net6.0\refint\product-service.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\obj\Debug\net6.0\product-service.pdb
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\obj\Debug\net6.0\product-service.genruntimeconfig.cache
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\obj\Debug\net6.0\ref\product-service.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\appsettings.json
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\product-service.exe
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\product-service.deps.json
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\product-service.runtimeconfig.json
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\product-service.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\product-service.pdb
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Humanizer.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Ocelot.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\obj\Debug\net6.0\product-service.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\obj\Debug\net6.0\product-service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\obj\Debug\net6.0\product-service.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\obj\Debug\net6.0\product-service.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\obj\Debug\net6.0\product-service.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\obj\Debug\net6.0\product-service.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\obj\Debug\net6.0\product-service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\obj\Debug\net6.0\scopedcss\bundle\product-service.styles.css
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\obj\Debug\net6.0\product-service.csproj.CopyComplete
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\obj\Debug\net6.0\product-service.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\obj\Debug\net6.0\refint\product-service.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\obj\Debug\net6.0\product-service.pdb
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\obj\Debug\net6.0\product-service.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\obj\Debug\net6.0\ref\product-service.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\MassTransit.dll
+C:\Users\lenovo\source\repos\DotNet\product-service\product-service\bin\Debug\net6.0\MassTransit.Abstractions.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\MassTransit.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\MassTransit.Abstractions.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\MassTransit.RabbitMqTransport.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\RabbitMQ.Client.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\shared.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\shared.pdb
+G:\Génie Informatique 3\Dotnet\Projet dotnet\product-service\product-service\bin\Debug\net6.0\product-service.staticwebassets.runtime.json

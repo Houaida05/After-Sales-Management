@@ -1,0 +1,113 @@
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\bin\Debug\net6.0\appsettings.json
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\bin\Debug\net6.0\Ocelot.json
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\bin\Debug\net6.0\ApiGateway.exe
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\bin\Debug\net6.0\ApiGateway.deps.json
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\bin\Debug\net6.0\ApiGateway.runtimeconfig.json
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\bin\Debug\net6.0\ApiGateway.dll
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\bin\Debug\net6.0\ApiGateway.pdb
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\bin\Debug\net6.0\Ocelot.dll
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\obj\Debug\net6.0\ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\obj\Debug\net6.0\ApiGateway.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\obj\Debug\net6.0\ApiGateway.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\obj\Debug\net6.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\obj\Debug\net6.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\obj\Debug\net6.0\scopedcss\bundle\ApiGateway.styles.css
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.CopyComplete
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\obj\Debug\net6.0\ApiGateway.dll
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\obj\Debug\net6.0\refint\ApiGateway.dll
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\obj\Debug\net6.0\ApiGateway.pdb
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\obj\Debug\net6.0\ApiGateway.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Microservices\ApiGateway\obj\Debug\net6.0\ref\ApiGateway.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\bin\Debug\net6.0\appsettings.Development.json
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\bin\Debug\net6.0\appsettings.json
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\bin\Debug\net6.0\Ocelot.json
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\bin\Debug\net6.0\ApiGateway.exe
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\bin\Debug\net6.0\ApiGateway.deps.json
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\bin\Debug\net6.0\ApiGateway.runtimeconfig.json
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\bin\Debug\net6.0\ApiGateway.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\bin\Debug\net6.0\ApiGateway.pdb
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\bin\Debug\net6.0\FluentValidation.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\bin\Debug\net6.0\Ocelot.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.AssemblyReference.cache
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\obj\Debug\net6.0\ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\obj\Debug\net6.0\ApiGateway.AssemblyInfoInputs.cache
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\obj\Debug\net6.0\ApiGateway.AssemblyInfo.cs
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.CoreCompileInputs.cache
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\obj\Debug\net6.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\obj\Debug\net6.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiGateway.props
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiGateway.props
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiGateway.props
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\obj\Debug\net6.0\staticwebassets.pack.json
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\obj\Debug\net6.0\staticwebassets.build.json
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\obj\Debug\net6.0\staticwebassets.development.json
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\obj\Debug\net6.0\scopedcss\bundle\ApiGateway.styles.css
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.CopyComplete
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\obj\Debug\net6.0\ApiGateway.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\obj\Debug\net6.0\refint\ApiGateway.dll
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\obj\Debug\net6.0\ApiGateway.pdb
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\obj\Debug\net6.0\ApiGateway.genruntimeconfig.cache
+G:\Génie Informatique 3\Dotnet\Projet dotnet\ApiGateway\obj\Debug\net6.0\ref\ApiGateway.dll
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\bin\Debug\net6.0\appsettings.json
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\bin\Debug\net6.0\Ocelot.json
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\bin\Debug\net6.0\ApiGateway.exe
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\bin\Debug\net6.0\ApiGateway.deps.json
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\bin\Debug\net6.0\ApiGateway.runtimeconfig.json
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\bin\Debug\net6.0\ApiGateway.dll
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\bin\Debug\net6.0\ApiGateway.pdb
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\bin\Debug\net6.0\Ocelot.dll
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\obj\Debug\net6.0\ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\obj\Debug\net6.0\ApiGateway.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\obj\Debug\net6.0\ApiGateway.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\obj\Debug\net6.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\obj\Debug\net6.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\obj\Debug\net6.0\scopedcss\bundle\ApiGateway.styles.css
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.CopyComplete
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\obj\Debug\net6.0\ApiGateway.dll
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\obj\Debug\net6.0\refint\ApiGateway.dll
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\obj\Debug\net6.0\ApiGateway.pdb
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\obj\Debug\net6.0\ApiGateway.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\DotNet\ApiGateway\obj\Debug\net6.0\ref\ApiGateway.dll

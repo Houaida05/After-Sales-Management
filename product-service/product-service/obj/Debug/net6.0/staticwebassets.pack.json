@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\Génie Informatique 3\\Dotnet\\Projet dotnet\\product-service\\product-service\\wwwroot\\Images\\iphone.png",
+      "PackagePath": "staticwebassets\\Images\\iphone.png"
+    },
+    {
+      "Id": "G:\\Génie Informatique 3\\Dotnet\\Projet dotnet\\product-service\\product-service\\wwwroot\\Images\\laptop.jpg",
+      "PackagePath": "staticwebassets\\Images\\laptop.jpg"
+    },
+    {
+      "Id": "G:\\Génie Informatique 3\\Dotnet\\Projet dotnet\\product-service\\product-service\\wwwroot\\Images\\laptop2.jpg",
+      "PackagePath": "staticwebassets\\Images\\laptop2.jpg"
+    },
+    {
+      "Id": "G:\\Génie Informatique 3\\Dotnet\\Projet dotnet\\product-service\\product-service\\wwwroot\\Images\\souris.jpg",
+      "PackagePath": "staticwebassets\\Images\\souris.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.product-service.props",
+      "PackagePath": "build\\product-service.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.product-service.props",
+      "PackagePath": "buildMultiTargeting\\product-service.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.product-service.props",
+      "PackagePath": "buildTransitive\\product-service.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.product-service.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

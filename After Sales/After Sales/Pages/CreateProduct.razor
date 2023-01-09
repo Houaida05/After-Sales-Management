@@ -1,0 +1,92 @@
+﻿@page "/CreateProduct"
+@using After_Sales.Model;
+@inherits CreateProductBase
+
+
+<style>
+    .demo-mat-card {
+        max-width: 500px;
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+    }
+
+    .demo-mat-card-clean-margin {
+        margin-left: 35%
+    }
+
+    .but {
+        margin-left: 45%;
+        color: black;
+    }
+
+        .but:hover {
+            color: red;
+        }
+</style>
+
+
+
+
+ <MatCard class="demo-mat-card">
+    <MatHeadline6 class="demo-mat-card-clean-margin">
+        Add Product
+    </MatHeadline6>
+
+<EditForm Model="@Product" OnValidSubmit="OnValidSubmit">
+    <div class="form-group">
+                <MatTextField class="form-control" id="name" @bind-Value="Product.ProductName" Label="Product Name"></MatTextField>
+    </div>
+    <div class="form-group">
+            <InputFile OnChange="@OnInputFileChange" />
+  </div>
+     
+
+    <div class="form-group">
+        <div>
+            <MatTextField class="form-control" id="price" @bind-Value="Product.ProductPrice" Label="Product Price"></MatTextField>
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="form-group">
+                <hr />
+
+                <MatButton Type="button"
+                    @onclick="@(() => Product.SpareParts.Add(new SparePart()))">
+                Add SparePart
+            </MatButton>
+        </div>
+
+        @for (var i = 0; i < Product.SpareParts.Count; i++)
+            {
+            var index = i;
+            var sparepart = Product.SpareParts.ElementAt(i);
+                <hr />
+             <MatHeadline7 class="fw-bold">SparePart @(i + 1)</MatHeadline7>
+                <MatButton class="float-end" Type="button"
+                       @onclick="@(() => Product.SpareParts.Remove(sparepart))">
+                    Remove
+                </MatButton>
+            <div class="form-group">
+                    <MatTextField class="form-control" id="name" @bind-Value="sparepart.SparePartName" label="SparePart Name"></MatTextField>
+            </div>
+                <InputFile OnChange="@OnInputFileChange" />
+
+            <div class="form-group">     
+                </div>
+            <div class="form-group">
+                    <MatTextField class="form-control" id="price" @bind-Value="sparepart.SparePartPrice" label="SparePart Price" ></MatTextField>
+            </div>
+        }
+           
+                
+              
+    </div>
+
+   
+    <MatButton  class="btn btn-primary" type="submit">Send</MatButton>
+   <MatButton  class="btn btn-secondary" type="button" @onclick="Clear">Clear</MatButton>
+
+</EditForm>
+</MatCard>
+

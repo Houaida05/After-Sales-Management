@@ -1,0 +1,49 @@
+﻿@page "/ListClaims"
+
+@inherits LisClaimsBase
+<style>
+            .demo-mat-card {
+               
+            }
+         .demo-mat-card-clean-margin {
+               
+                margin-left:42%
+            }
+            .but{
+                margin-left:45%; color:black;
+            }
+            .but:hover{
+                 color:red;
+            }
+  </style>
+
+  <MatCard class="demo-mat-card">
+           <MatHeadline6 class="demo-mat-card-clean-margin">
+                       <p class="text-black-50">List of claims</p>   
+            </MatHeadline6>
+           
+        @foreach (var c in claims)
+        {
+       <div class="card">
+        <div class="card-body">
+        @c.Subject
+                <MatButton class="float-end" Link="@($"ClaimDetails/{c.ClaimId}")">Details</MatButton>
+            </div>
+                     
+             
+        </div>
+        <hr />
+        }
+
+        @if(claims.Count == 0)
+        {
+            <div class="card">
+              <div class="card-body text-danger">
+                You have no claims <MatIcon Style="margin-left:150px;color:black">@MatIconNames.Error</MatIcon>
+              </div>
+            </div>
+        }
+               
+</MatCard>
+
+                 
