@@ -10,7 +10,9 @@
 }
 else
 {
-    <div class="row justify-content-center m-3">
+ <div class="row">
+  <div class="col-md-7">
+     <div class="row justify-content-center m-3">
         <div class="col-sm-8">
             <div class="card">
                 <div class="card-header">
@@ -26,4 +28,62 @@ else
         </div>
     </div>
 
+  </div>
+  <div class="col-md-5">
+    <MatCard class="demo-mat-card">
+           
+                    <MatHeadline6 class="demo-mat-card-clean-margin">
+                       Add Claim 
+                       </MatHeadline6>
+                    <MatCardContent>
+                       <EditForm Model="@intervention" OnValidSubmit="createIntervention">
+    <hr/>
+   @* <div class="form-group row">      
+                         <MatTextField @bind-Value="intervention.fees" 
+                          FullWidth="true"
+                         TextArea="true"
+                         Label="Fees" 
+                         HelperTextPersistent="true" 
+                         HelperTextValidation="true">
+                     </MatTextField>
+             </div>*@
+               <div class="form-group row">
+        
+            <MatSelect  Label="Spare Part" @bind-Value="@intervention.SparePartId"> 
+        
+        @foreach (var s in SpareParts)
+        {
+            <MatOption Value="@s.SparePartId">@s.SparePartName</MatOption>
+        }
+    </MatSelect>
+            </div>
+           
+               <div>
+            <MatCheckbox @bind-Value="@intervention.Warranty" Label="@(getLabel(intervention.Warranty))"></MatCheckbox>
+        </div>
+         <div class="form-group row">
+                <MatButton Type="button"
+                    @onclick="@(() => GetTotalFee(@intervention.SparePartId))">
+                Get Total Fee
+            </MatButton>
+                </div>
+                <div class="form-group row">
+                    <MatChipSet>
+                        <MatChip Style="color='red';">@intervention.fees</MatChip>
+                    </MatChipSet>
+                </div>
+             <br /> 
+        <MatIconButton type="submit" class="but">
+            <MatIcon>@MatIconNames.Touch_app</MatIcon>
+        </MatIconButton>
+</EditForm>
+           </MatCardContent>
+               
+
+            
+        </MatCard>
+  
+  </div>
+</div>
+   
 }

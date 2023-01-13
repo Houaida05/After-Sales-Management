@@ -31,6 +31,11 @@ namespace After_Sales.Service
             return await httpClient.GetFromJsonAsync<Product[]>("product");
         }
 
+        public async Task<SparePart> GetSparePart(int sparePartId)
+        {
+            return await httpClient.GetFromJsonAsync<SparePart>($"spareParts/sparePart/{sparePartId}");
+        }
+
         public async Task<IEnumerable<SparePart>> GetSpareParts(int productId)
         {
             return await httpClient.GetFromJsonAsync<SparePart[]>($"spareParts/{productId}");

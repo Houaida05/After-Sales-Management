@@ -23,7 +23,7 @@ builder.Services.AddMassTransit(options =>
             h.Username("guest");
             h.Password("guest");
         });
-        cfg.ReceiveEndpoint("event-listener", e =>
+        cfg.ReceiveEndpoint("event-listener-client-web-service", e =>
         {
             e.ConfigureConsumer<ProductToBeCreatedConsumer>(context);
         });

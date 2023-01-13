@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using product_service.DB;
 using product_service.Models;
-using shared;
+using Shared;
 
 namespace product_service.Service
 {
@@ -57,6 +57,11 @@ namespace product_service.Service
         
         }
 
+        public async Task<SparePart> GetSparePart(int sparePartId)
+        {
+            return await appDbContext.SpareParts.FirstOrDefaultAsync(s => s.SparePartId == sparePartId);
+
+        }
     }
 }
 //public async Task<Product> UpdateProduct(Product Product)

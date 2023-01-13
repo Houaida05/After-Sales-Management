@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Génie Informatique 3\\Dotnet\\Projet dotnet\\TechnicalSupportService\\TechnicalSupportService\\TechnicalSupportService.csproj": {}
+    "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\TechnicalSupportService\\TechnicalSupportService\\TechnicalSupportService.csproj": {}
   },
   "projects": {
-    "G:\\Génie Informatique 3\\Dotnet\\Projet dotnet\\TechnicalSupportService\\TechnicalSupportService\\TechnicalSupportService.csproj": {
+    "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\Shared\\shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Génie Informatique 3\\Dotnet\\Projet dotnet\\TechnicalSupportService\\TechnicalSupportService\\TechnicalSupportService.csproj",
-        "projectName": "TechnicalSupportService",
-        "projectPath": "G:\\Génie Informatique 3\\Dotnet\\Projet dotnet\\TechnicalSupportService\\TechnicalSupportService\\TechnicalSupportService.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\Shared\\shared.csproj",
+        "projectName": "shared",
+        "projectPath": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\Shared\\shared.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "G:\\Génie Informatique 3\\Dotnet\\Projet dotnet\\TechnicalSupportService\\TechnicalSupportService\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,10 +39,76 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\TechnicalSupportService\\TechnicalSupportService\\TechnicalSupportService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\TechnicalSupportService\\TechnicalSupportService\\TechnicalSupportService.csproj",
+        "projectName": "TechnicalSupportService",
+        "projectPath": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\TechnicalSupportService\\TechnicalSupportService\\TechnicalSupportService.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\TechnicalSupportService\\TechnicalSupportService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\Shared\\shared.csproj": {
+                "projectPath": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\Shared\\shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "MassTransit": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.0.10, )"
+            },
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.0.10, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -69,8 +135,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -82,7 +147,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

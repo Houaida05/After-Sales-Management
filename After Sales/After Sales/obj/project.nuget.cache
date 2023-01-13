@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f8kSpqobq0MdtdlKAGXfdUTUcOCAg47bapMguOWPBVVfwcYJ3Nce2L7UFxdkrG15qSEHBfW0eNGaa5V8vmqPmA==",
+  "dgSpecHash": "gEhVD0m8aYqT/vvxHK+Zr0uccc4L4/e/Um6MhzHTqpsHEqqJtnsSTsCL7Yo+75XHMb2ldqmMXld+MCa0VFsfTA==",
   "success": true,
-  "projectFilePath": "G:\\Génie Informatique 3\\Dotnet\\Projet dotnet\\After Sales\\After Sales\\After Sales.csproj",
+  "projectFilePath": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\After Sales.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\matblazor\\2.8.0\\matblazor.2.8.0.nupkg.sha512",

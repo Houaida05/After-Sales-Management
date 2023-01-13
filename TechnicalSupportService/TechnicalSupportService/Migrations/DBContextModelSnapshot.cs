@@ -49,6 +49,9 @@ namespace TechnicalSupportService.Migrations
                     b.Property<int>("ClaimId")
                         .HasColumnType("int");
 
+                    b.Property<int>("SparePartId")
+                        .HasColumnType("int");
+
                     b.Property<bool>("Warranty")
                         .HasColumnType("bit");
 
@@ -69,6 +72,10 @@ namespace TechnicalSupportService.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ProductId"));
 
                     b.Property<string>("ProductName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ProductPhoto")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 

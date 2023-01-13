@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "siV1veP+gIPekZXHdt7GYcnzP0W6G+UfJCAQczLz1qlD+/VuYw8MKSuyLHHAY5DlgfXKWaUKHuJZ+eEnDTaVsw==",
+  "dgSpecHash": "z5XNhSu9yKLqUorjfJ9SKmSp2WT112ilgIi0/Mk3rHkAn+4aMcPyNJaBU7J7/zVh3yDSwJRL718BZu54puz0hA==",
   "success": true,
-  "projectFilePath": "G:\\Génie Informatique 3\\Dotnet\\Projet dotnet\\product-service\\product-service\\product-service.csproj",
+  "projectFilePath": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\product-service\\product-service\\product-service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -2,13 +2,13 @@
 using MassTransit;
 
 using System.Text.Json;
-using shared;
+using Shared;
 using ClientWebService.DB;
 using ClientWebService.Model;
 
 namespace ClientWebService.Consumer
 {
-    public class ProductToBeCreatedConsumer : IConsumer<shared.ProductCreated>
+    public class ProductToBeCreatedConsumer : IConsumer<Shared.ProductCreated>
     {
         private readonly AppDbContext _appDbContext;
     
@@ -19,7 +19,7 @@ namespace ClientWebService.Consumer
             _appDbContext = appDbContext; 
         }
 
-        public async Task Consume(ConsumeContext<shared.ProductCreated> context)
+        public async Task Consume(ConsumeContext<Shared.ProductCreated> context)
         {
 
             var newProduct = new Product

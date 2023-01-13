@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Génie Informatique 3\\Dotnet\\Projet dotnet\\ApiGateway\\ApiGateway.csproj": {}
+    "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\ApiGateway\\ApiGateway.csproj": {}
   },
   "projects": {
-    "G:\\Génie Informatique 3\\Dotnet\\Projet dotnet\\ApiGateway\\ApiGateway.csproj": {
+    "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\ApiGateway\\ApiGateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Génie Informatique 3\\Dotnet\\Projet dotnet\\ApiGateway\\ApiGateway.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\ApiGateway\\ApiGateway.csproj",
         "projectName": "ApiGateway",
-        "projectPath": "G:\\Génie Informatique 3\\Dotnet\\Projet dotnet\\ApiGateway\\ApiGateway.csproj",
+        "projectPath": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\ApiGateway\\ApiGateway.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "G:\\Génie Informatique 3\\Dotnet\\Projet dotnet\\ApiGateway\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\ApiGateway\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -25,7 +25,7 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
+          "net60": {
             "targetAlias": "net6.0",
             "projectReferences": {}
           }
@@ -37,7 +37,7 @@
         }
       },
       "frameworks": {
-        "net6.0": {
+        "net60": {
           "targetAlias": "net6.0",
           "dependencies": {
             "Ocelot": {
@@ -49,26 +49,12 @@
               "version": "[6.2.3, )"
             }
           },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
         }
       }
     }

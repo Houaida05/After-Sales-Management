@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Http;
 using product_service.Models;
 using MassTransit;
-using shared;
+using Shared;
 using System.Linq;
 
 namespace product_service.Controllers
@@ -65,6 +65,22 @@ namespace product_service.Controllers
                 "Error retrieving data from the database");
             }
         }
+
+        [HttpGet("/spareParts/sparePart/{sparePartId:int}")]
+        public async Task<ActionResult<SparePart>> GetSparePart(int sparePartId)
+        {
+            try
+            {
+                var result = await ProductRepository.GetSparePart(sparePartId);
+                if (result == null) return NotFound();
+                return result;
+            }
+            catch (Exception)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError,
+                "Error retrieving data from the database");
+            }
+        }
         [HttpPost]
         public async Task<ActionResult<Product>> CreateProduct(Product Product)
         {
@@ -86,7 +102,7 @@ namespace product_service.Controllers
                     else
                     {
                         var createdProduct = await ProductRepository.AddProduct(Product);
-                        await _publishEndpoint.Publish<shared.ProductCreated>(new shared.ProductCreated
+                        await _publishEndpoint.Publish<Shared.ProductCreated>(new Shared.ProductCreated
                         {
                             Id = createdProduct.ProductId,
                             Name = createdProduct.ProductName,

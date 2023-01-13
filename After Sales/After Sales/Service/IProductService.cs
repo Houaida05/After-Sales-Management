@@ -11,6 +11,6 @@ namespace After_Sales.Service
         Task<IEnumerable<Product>> GetProducts();
         Task<IEnumerable<SparePart>> GetSpareParts(int productId);
         Task<HttpResponseMessage> uploadImage(MultipartFormDataContent content);
-
+        Task<SparePart> GetSparePart(int sparePartId);
     }
 }

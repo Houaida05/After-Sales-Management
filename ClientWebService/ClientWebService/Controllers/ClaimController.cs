@@ -3,7 +3,7 @@ using ClientWebService.Model;
 using ClientWebService.Repository;
 using MassTransit;
 using Microsoft.AspNetCore.Mvc;
-using shared;
+using Shared;
 using System.Numerics;
 
 namespace ClientWebService.Controllers
@@ -63,7 +63,15 @@ namespace ClientWebService.Controllers
                 else
                     {
                         var createdClaim = await claimRepository.AddClaim(ClaimDto);
-                        return CreatedAtAction(nameof(GetClaim), new { id = createdClaim.ClaimId },
+
+                    await _publishEndpoint.Publish<Shared.ClaimCreated>(new Shared.ClaimCreated
+                    {
+                        ClaimId = createdClaim.ClaimId,
+                        Subject = createdClaim.Subject,
+                        
+
+                    });
+                    return CreatedAtAction(nameof(GetClaim), new { id = createdClaim.ClaimId },
                         createdClaim);
                     }
                 

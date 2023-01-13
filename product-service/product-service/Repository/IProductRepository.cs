@@ -1,5 +1,5 @@
 ﻿using product_service.Models;
-using shared;
+using Shared;
 
 namespace product_service
 {
@@ -13,7 +13,7 @@ namespace product_service
         Task<Product> DeleteProduct(int ProductId);
 
         Task<IEnumerable<SparePart>> GetSpareParts(int productId);
-
+        Task<SparePart> GetSparePart(int sparePartId);
 
     }
 }

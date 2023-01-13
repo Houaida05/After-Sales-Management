@@ -1,6 +1,6 @@
 ﻿
 
-using shared;
+using Shared;
 using System.ComponentModel.DataAnnotations;
 
 namespace ClientWebService.Model

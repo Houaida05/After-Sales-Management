@@ -46,14 +46,6 @@ namespace TechnicalSupportService.Controllers
                 {
                    
                         var createdIntervention = await InterventionRepository.AddIntervention(Intervention);
-                        //await _publishEndpoint.Publish<shared.InterventionCreated>(new shared.InterventionCreated
-                        //{
-                        //    Id = createdIntervention.InterventionId,
-                        //    Name = createdIntervention.InterventionName,
-                        //    Photo = createdIntervention.InterventionPhoto,
-
-                        //});
-
                         return CreatedAtAction(nameof(GetIntervention), new { id = createdIntervention.Id },
                         createdIntervention);
                     }

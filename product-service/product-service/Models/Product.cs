@@ -1,4 +1,4 @@
-﻿using shared;
+﻿using Shared;
 
 namespace product_service.Models
 {

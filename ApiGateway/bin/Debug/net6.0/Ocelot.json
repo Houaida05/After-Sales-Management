@@ -107,6 +107,30 @@
       ],
       "UpstreamPathTemplate": "/apigateway/image",
       "UpstreamHttpMethod": [ "Get", "Post" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/intervention",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7036
+        }
+      ],
+      "UpstreamPathTemplate": "/apigateway/intervention",
+      "UpstreamHttpMethod": [ "Get", "Post" ]
+    },
+    {
+      "DownstreamPathTemplate": "/spareParts/sparePart/{sparePartId}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7056
+        }
+      ],
+      "UpstreamPathTemplate": "/apigateway/spareParts/{sparePartId}",
+      "UpstreamHttpMethod": [ "Get", "Post" ]
     }
   ]
 }

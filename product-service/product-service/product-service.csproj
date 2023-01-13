@@ -30,12 +30,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Migrations\" />
     <Folder Include="wwwroot\Images\" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\shared\shared.csproj" />
+    
+    <ProjectReference Include="..\..\Shared\shared.csproj" />
   </ItemGroup>
 
 </Project>

@@ -9,6 +9,7 @@ using Microsoft.EntityFrameworkCore;
 using MatBlazor;
 using ClientWebService.Repository;
 using After_Sales.Service;
+using After_Sales.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -28,6 +29,11 @@ builder.Services.AddHttpClient<IClaimRepository, ClaimService>(client =>
     client.BaseAddress = new Uri("https://localhost:7240/apigateway/");
 });
 builder.Services.AddHttpClient<IProductService, ProductService>(client =>
+{
+    client.BaseAddress = new Uri("https://localhost:7240/apigateway/");
+});
+
+builder.Services.AddHttpClient<IInterventionRepository, InterventionService>(client =>
 {
     client.BaseAddress = new Uri("https://localhost:7240/apigateway/");
 });
