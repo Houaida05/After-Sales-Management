@@ -3,6 +3,15 @@
 
 @inherits ListProductsBase
 <style>
+    .mdc-dialog .mdc-dialog__container {
+        width: 60%;
+    }
+
+    .mdc-dialog .mdc-dialog__surface {
+        max-width: none;
+        width: 70%;
+    }
+
     .demo-mat-card {
         max-width: 400px;
     }
@@ -15,54 +24,85 @@
         margin: 0px;
     }
 </style>
- <div class="container-fluid">
-      <div class="row">
+<div class="container-fluid ">
+    <div class="row">
         @foreach (var p in Products)
         {
             <div class="col-md-3">
                 <MatCard class="demo-mat-card">
                     <MatCardContent>
-
                         <MatCardMedia Wide="true">
-                            <img style="width:150px" src="https://localhost:7240/apigateway/image?imageName=@p.ProductPhoto" />
+                            <img style="width:150px;  margin-left:22%;" src="https://localhost:7240/apigateway/image?imageName=@p.ProductPhoto" />
                         </MatCardMedia>
-                        <div class="demo-mat-card-content">
+                        <div class="demo-mat-card-content" style="margin-left:32%;">
+
                             <MatHeadline6 class="demo-mat-card-clean-margin">
                                 @p.ProductName
                             </MatHeadline6>
                             <MatSubtitle2 class="demo-mat-card-clean-margin">
-                                @p.ProductPrice
+                                @p.ProductPrice DT
                             </MatSubtitle2>
                         </div>
 
-                        <MatBody2 class="demo-mat-card-content demo-mat-card-clean-margin">
+                        <MatBody2 class="demo-mat-card-content demo-mat-card-clean-margin" style="margin-left:15%;">
 
-                            <MatButton  @onclick="@(() =>@OpenDialog(p.ProductId))" Raised="true">Get SpareParts</MatButton>
+                            <MatButton @onclick="@(() =>@OpenDialog(p.ProductId))" Raised="true">Get SpareParts</MatButton>
 
-                           
+
                         </MatBody2>
                     </MatCardContent>
                 </MatCard>
                 <br />
                 <br />
             </div>
-          
+
         }
         <MatDialog @bind-IsOpen="@dialogIsOpen">
+
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="demo-mat-card-content">
+                        <MatHeadline6 class="demo-mat-card-clean-margin">
+                            SpareParts
+                        </MatHeadline6>
+                    </div>
+
+                    @foreach (var s in spareParts)
+                    {
+                        <div class="col-6 col-sm-6 ">
+                            <MatCard>
+                                <div style="margin-left:35%;">
+                                    <MatHeadline6 class="demo-mat-card-clean-margin">
+                                        @s.SparePartName
+                                    </MatHeadline6>
+                                </div>
+                                <br />
+
+                                <MatCardMedia Wide="true">
+                                    <img style="width:130px; margin-left:25%;" src="https://localhost:7240/apigateway/image?imageName=@s.SparePartImage" />
+                                </MatCardMedia>
+                                <div style="margin-left:40%;">
+
+                                    <MatHeadline6 class="demo-mat-card-clean-margin">
+                                        @s.SparePartPrice DT
+                                    </MatHeadline6>
+                                </div>
+                                <br />
+                            </MatCard>
+                            <hr />
+                        </div>
+
+                    }
+                </div>
+            </div>
+
             <MatDialogActions>
-                <MatButton OnClick="@(e => { dialogIsOpen = false; })">No Thanks</MatButton>
-               
+                <MatButton OnClick="@(e => { dialogIsOpen = false; })">Close</MatButton>
+
             </MatDialogActions>
-
-            @foreach(var s in spareParts)
-            {
-                <p>@s.SparePartName</p>
-                <img style="width:150px" src="https://localhost:7240/apigateway/image?imageName=@s.SparePartImage" />
-
-
-            }
         </MatDialog>
-</div>
+
+    </div>
 </div>
 
 @code {
@@ -86,4 +126,3 @@
         productId = 0;
     }
 }
-    

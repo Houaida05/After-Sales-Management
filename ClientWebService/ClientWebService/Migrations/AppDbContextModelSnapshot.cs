@@ -29,6 +29,9 @@ namespace ClientWebService.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ClaimId"));
 
+                    b.Property<bool>("ClaimStatus")
+                        .HasColumnType("bit");
+
                     b.Property<int>("ClientId")
                         .HasColumnType("int");
 
@@ -38,9 +41,6 @@ namespace ClientWebService.Migrations
                     b.Property<string>("Subject")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
-
-                    b.Property<bool>("Warranty")
-                        .HasColumnType("bit");
 
                     b.HasKey("ClaimId");
 

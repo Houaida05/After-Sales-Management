@@ -11,5 +11,6 @@ namespace ClientWebService.Repository
         Task<HttpResponseMessage> AddClaim(ClaimDto claim);
 
         Task<Client> getClientByEmail(string email);
+        Task<HttpResponseMessage> updateClaim(int id, Claim updatedClaim);
     }
 }

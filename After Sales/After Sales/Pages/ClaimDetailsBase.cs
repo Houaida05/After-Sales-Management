@@ -29,6 +29,7 @@ namespace After_Sales.Pages
         [Parameter]
         public string Id { get; set; }
         public Claim claim { get; set; } = new Claim();
+        public Claim updatedClaim { get; set; } = new Claim();
         [Inject]
         public IClaimRepository claimService { get; set; }
         [Inject]
@@ -37,10 +38,15 @@ namespace After_Sales.Pages
         public IEnumerable<SparePart> SpareParts { get; set; } = new List<SparePart>();
         public Intervention intervention { get; set;} = new Intervention();
         public float feeIntervention { get; set; }
+        public float fee { get; set; }
+
         public SparePart sparePart = new SparePart();
+        public Intervention createdIntervention { get; set; } = new Intervention();
+        public bool isAdmin { get; set; }    = false;
         protected override async Task OnInitializedAsync()
         {            
             var user = (await authenticationStateTask).User;
+             isAdmin = user.IsInRole("Admin");
             if (!user.Identity.IsAuthenticated)
             {
                 NavigationManager.NavigateTo("/Identity/Account/Login", true);
@@ -53,19 +59,29 @@ namespace After_Sales.Pages
 
                 SpareParts = await productService.GetSpareParts(product.ProductId);
                 intervention.fees = 0;
+                if (claim.ClaimStatus)
+                {
+                    createdIntervention = await interventionService.GetIntervention(claim.ClaimId);
+                    fee = createdIntervention.fees;
+
+                }
+              
             }
         }
 
         protected async void createIntervention()
         {
-            intervention = new Intervention();
             
             intervention.ClaimId = claim.ClaimId;
+
+            updatedClaim = await claimService.GetClaim(intervention.ClaimId);
+            updatedClaim.ClaimStatus= true;
             
             var result = await interventionService.AddIntervention(intervention);
+            var result2 = await claimService.updateClaim(updatedClaim.ClaimId,updatedClaim);
             Console.WriteLine(JsonSerializer.Serialize(intervention));
 
-            if (result != null)
+            if (result!= null)
             {
                 NavigationManager.NavigateTo("/ListProducts");
             }

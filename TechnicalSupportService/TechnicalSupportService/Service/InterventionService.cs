@@ -1,4 +1,5 @@
 ﻿
+using Microsoft.EntityFrameworkCore;
 using TechnicalSupportService.DB;
 using TechnicalSupportService.Models;
 using TechnicalSupportService.Repository;
@@ -21,9 +22,9 @@ namespace TechnicalSupportService.Service
 
         }
 
-        public Task<Intervention> GetIntervention(int InterventionId)
+        public async Task<Intervention> GetIntervention(int id)
         {
-            throw new NotImplementedException();
+            return await appDbContext.interventions.FirstOrDefaultAsync(i => i.ClaimId == id);
         }
 
         public Task<IEnumerable<Intervention>> GetInterventions()

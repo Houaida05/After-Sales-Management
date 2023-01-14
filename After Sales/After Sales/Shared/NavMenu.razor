@@ -11,11 +11,11 @@
 
 <div class="@NavMenuCssClass" @onclick="ToggleNavMenu">
     <nav class="flex-column">
-        <div class="nav-item px-3">
+     @*   <div class="nav-item px-3">
             <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
                 <span class="oi oi-home" aria-hidden="true"></span> Home
             </NavLink>
-        </div>
+        </div>*@
         
         
         @if(@isAuthenticated)
@@ -48,7 +48,11 @@
                 
             }
             </div>
-        <div class="nav-item px-3">
+            @if (isAdmin)
+            {
+                
+            
+            <div class="nav-item px-3">
             <NavLink class="nav-link" href="" @onclick="() =>expandSubMenuProduct = !expandSubMenuProduct">
                     <span aria-hidden="true"></span>  Products
             </NavLink>
@@ -74,8 +78,8 @@
                 }
             </div>
         }
-        
-       
+        }
+
     </nav>
 </div>
 
@@ -92,14 +96,18 @@
     }
     string userAuthenticated;
     Boolean isAuthenticated;
+    Boolean isAdmin;
     protected override async Task OnInitializedAsync()  
     {  
         var authState = await AuthenticationStateProvider.GetAuthenticationStateAsync();  
         var user = authState.User;
+
+        isAdmin = user.IsInRole("Admin");
         isAuthenticated = user.Identity.IsAuthenticated;
         if (isAuthenticated)  
         {  
-            userAuthenticated = $"{ user.Identity.Name} is authenticated.";  
+            userAuthenticated = $"{ user.Identity.Name} is authenticated.";
+            Console.WriteLine(user.IsInRole("Admin"));
         }  
         else  
         {  

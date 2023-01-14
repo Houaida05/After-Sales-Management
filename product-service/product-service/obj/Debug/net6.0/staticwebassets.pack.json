@@ -1,20 +1,16 @@
 {
   "Files": [
     {
-      "Id": "G:\\Génie Informatique 3\\Dotnet\\Projet dotnet\\product-service\\product-service\\wwwroot\\Images\\iphone.png",
-      "PackagePath": "staticwebassets\\Images\\iphone.png"
+      "Id": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\product-service\\product-service\\wwwroot\\Images\\laptop 4.jpg",
+      "PackagePath": "staticwebassets\\Images\\laptop 4.jpg"
     },
     {
-      "Id": "G:\\Génie Informatique 3\\Dotnet\\Projet dotnet\\product-service\\product-service\\wwwroot\\Images\\laptop.jpg",
+      "Id": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\product-service\\product-service\\wwwroot\\Images\\laptop.jpg",
       "PackagePath": "staticwebassets\\Images\\laptop.jpg"
     },
     {
-      "Id": "G:\\Génie Informatique 3\\Dotnet\\Projet dotnet\\product-service\\product-service\\wwwroot\\Images\\laptop2.jpg",
-      "PackagePath": "staticwebassets\\Images\\laptop2.jpg"
-    },
-    {
-      "Id": "G:\\Génie Informatique 3\\Dotnet\\Projet dotnet\\product-service\\product-service\\wwwroot\\Images\\souris.jpg",
-      "PackagePath": "staticwebassets\\Images\\souris.jpg"
+      "Id": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\product-service\\product-service\\wwwroot\\Images\\laptop3.jpg",
+      "PackagePath": "staticwebassets\\Images\\laptop3.jpg"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.product-service.props",

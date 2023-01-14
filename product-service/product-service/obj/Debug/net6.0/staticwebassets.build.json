@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "evdIBu9QZw2ZaSYhfLZMY1SDLrYNs0iPmM09Yqif4xI=",
+  "Hash": "Jg2t8B+uUtkGSt3oc0lKSUZlIM0OBoGQ+gbwEmN+dho=",
   "Source": "product-service",
   "BasePath": "_content/product-service",
   "Mode": "Default",
@@ -10,19 +10,19 @@
     {
       "Name": "product-service\\wwwroot",
       "Source": "product-service",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\product-service\\product-service\\wwwroot\\",
+      "ContentRoot": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\product-service\\product-service\\wwwroot\\",
       "BasePath": "_content/product-service",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\product-service\\product-service\\wwwroot\\Images\\apple.png",
+      "Identity": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\product-service\\product-service\\wwwroot\\Images\\laptop 4.jpg",
       "SourceId": "product-service",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\product-service\\product-service\\wwwroot\\",
+      "ContentRoot": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\product-service\\product-service\\wwwroot\\",
       "BasePath": "_content/product-service",
-      "RelativePath": "Images/apple.png",
+      "RelativePath": "Images/laptop 4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -31,30 +31,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\apple.png"
+      "OriginalItemSpec": "wwwroot\\Images\\laptop 4.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\product-service\\product-service\\wwwroot\\Images\\iphone.png",
+      "Identity": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\product-service\\product-service\\wwwroot\\Images\\laptop.jpg",
       "SourceId": "product-service",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\product-service\\product-service\\wwwroot\\",
-      "BasePath": "_content/product-service",
-      "RelativePath": "Images/iphone.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\iphone.png"
-    },
-    {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\product-service\\product-service\\wwwroot\\Images\\laptop.jpg",
-      "SourceId": "product-service",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\product-service\\product-service\\wwwroot\\",
+      "ContentRoot": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\product-service\\product-service\\wwwroot\\",
       "BasePath": "_content/product-service",
       "RelativePath": "Images/laptop.jpg",
       "AssetKind": "All",
@@ -68,12 +51,12 @@
       "OriginalItemSpec": "wwwroot\\Images\\laptop.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\product-service\\product-service\\wwwroot\\Images\\laptop2.jpg",
+      "Identity": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\product-service\\product-service\\wwwroot\\Images\\laptop3.jpg",
       "SourceId": "product-service",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\product-service\\product-service\\wwwroot\\",
+      "ContentRoot": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\product-service\\product-service\\wwwroot\\",
       "BasePath": "_content/product-service",
-      "RelativePath": "Images/laptop2.jpg",
+      "RelativePath": "Images/laptop3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -82,41 +65,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\laptop2.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\product-service\\product-service\\wwwroot\\Images\\souris.jpg",
-      "SourceId": "product-service",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\product-service\\product-service\\wwwroot\\",
-      "BasePath": "_content/product-service",
-      "RelativePath": "Images/souris.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\souris.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\product-service\\product-service\\wwwroot\\Images\\toshiba.png",
-      "SourceId": "product-service",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\product-service\\product-service\\wwwroot\\",
-      "BasePath": "_content/product-service",
-      "RelativePath": "Images/toshiba.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\toshiba.png"
+      "OriginalItemSpec": "wwwroot\\Images\\laptop3.jpg"
     }
   ]
 }

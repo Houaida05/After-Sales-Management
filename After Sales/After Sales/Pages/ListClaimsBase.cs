@@ -35,15 +35,22 @@ namespace After_Sales.Pages
 
 
             var user = (await authenticationStateTask).User;
+            Boolean isAdmin = user.IsInRole("Admin"); 
             if (!user.Identity.IsAuthenticated)
             {
                 NavigationManager.NavigateTo("/Identity/Account/Login", true);
 
             }
+            else if(isAdmin)
+            {
+                claims = (await claimService.GetClaims()).ToList();
+
+
+            }
             else
             {
-
                 claims = (await claimService.GetClaimsByClient(user.Identity.Name)).ToList();
+
             }
         }
         protected void OnChangeProduct(string value)

@@ -63,7 +63,7 @@ namespace After_Sales.Pages
                 var result = await claimService.AddClaim(ClaimDto);
             if(result != null)
                 {
-                    NavigationManager.NavigateTo("");
+                    NavigationManager.NavigateTo("/ListClaims");
     }
            }
             else

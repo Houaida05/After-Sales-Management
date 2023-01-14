@@ -81,7 +81,25 @@ namespace ClientWebService.Controllers
                 return StatusCode(StatusCodes.Status500InternalServerError, "Error retrieving data from the database");
             }
         }
+        [HttpPut("{id:int}")]
+        public async Task<ActionResult<Claim>> UpdateEmployee(int id, Claim Claim)
+        {
+            try
+            {
+                if (id != Claim.ClaimId)
+                    return BadRequest("Claim ID mismatch");
+                var claimToUpdate = await claimRepository.GetClaim(id);
+                if (claimToUpdate == null)
+                    return NotFound($"Claim with Id= {id} not found");
+                return await claimRepository.UpdateClaim(Claim);
 
+            }
+            catch (Exception)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, "Error updating data");
+
+            }
+        }
         [HttpGet("/claims/{clientName}")]
         public async Task<ActionResult> GetClaimsByClient(string clientName)
         {

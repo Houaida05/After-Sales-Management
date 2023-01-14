@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TAxru+4fgQdZRQO8TZoTl9rNRp0yahbEK45hbRNsSNY=",
+  "Hash": "1GwkjLLcESst07axKuN9/PBMrW3+hKH18Xuyw6V/UII=",
   "Source": "After Sales",
   "BasePath": "_content/After Sales",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "After Sales\\wwwroot",
       "Source": "After Sales",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\wwwroot\\",
+      "ContentRoot": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\wwwroot\\",
       "BasePath": "_content/After Sales",
       "Pattern": "**"
     }
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "C:\\Users\\lenovo\\.nuget\\packages\\syncfusion.blazor.core\\20.4.0.42\\staticwebassets\\scripts\\syncfusion-blazor-extended.min.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\obj\\Debug\\net6.0\\scopedcss\\bundle\\After Sales.styles.css",
+      "Identity": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\obj\\Debug\\net6.0\\scopedcss\\bundle\\After Sales.styles.css",
       "SourceId": "After Sales",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/After Sales",
       "RelativePath": "After Sales.styles.css",
       "AssetKind": "All",
@@ -1306,13 +1306,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\obj\\Debug\\net6.0\\scopedcss\\bundle\\After Sales.styles.css"
+      "OriginalItemSpec": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\obj\\Debug\\net6.0\\scopedcss\\bundle\\After Sales.styles.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\After Sales.bundle.scp.css",
+      "Identity": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\After Sales.bundle.scp.css",
       "SourceId": "After Sales",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/After Sales",
       "RelativePath": "After Sales.bundle.scp.css",
       "AssetKind": "All",
@@ -1323,13 +1323,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\After Sales.bundle.scp.css"
+      "OriginalItemSpec": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\After Sales.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "After Sales",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\wwwroot\\",
+      "ContentRoot": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\wwwroot\\",
       "BasePath": "_content/After Sales",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "After Sales",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\wwwroot\\",
+      "ContentRoot": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\wwwroot\\",
       "BasePath": "_content/After Sales",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "After Sales",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\wwwroot\\",
+      "ContentRoot": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\wwwroot\\",
       "BasePath": "_content/After Sales",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "After Sales",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\wwwroot\\",
+      "ContentRoot": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\wwwroot\\",
       "BasePath": "_content/After Sales",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "After Sales",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\wwwroot\\",
+      "ContentRoot": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\wwwroot\\",
       "BasePath": "_content/After Sales",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "After Sales",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\wwwroot\\",
+      "ContentRoot": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\wwwroot\\",
       "BasePath": "_content/After Sales",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "After Sales",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\wwwroot\\",
+      "ContentRoot": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\wwwroot\\",
       "BasePath": "_content/After Sales",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "After Sales",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\wwwroot\\",
+      "ContentRoot": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\wwwroot\\",
       "BasePath": "_content/After Sales",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "After Sales",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\wwwroot\\",
+      "ContentRoot": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\wwwroot\\",
       "BasePath": "_content/After Sales",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "After Sales",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\wwwroot\\",
+      "ContentRoot": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\wwwroot\\",
       "BasePath": "_content/After Sales",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "After Sales",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\wwwroot\\",
+      "ContentRoot": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\wwwroot\\",
       "BasePath": "_content/After Sales",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\wwwroot\\css\\site.css",
+      "Identity": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\wwwroot\\css\\site.css",
       "SourceId": "After Sales",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\wwwroot\\",
+      "ContentRoot": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\wwwroot\\",
       "BasePath": "_content/After Sales",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\wwwroot\\favicon.ico",
+      "Identity": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\wwwroot\\favicon.ico",
       "SourceId": "After Sales",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\wwwroot\\",
+      "ContentRoot": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\wwwroot\\",
       "BasePath": "_content/After Sales",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

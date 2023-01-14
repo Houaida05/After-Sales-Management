@@ -10,3 +10,15 @@ C:\Users\lenovo\Desktop\.NET PROJECT\dotnetproj\Shared\obj\Debug\net6.0\shared.d
 C:\Users\lenovo\Desktop\.NET PROJECT\dotnetproj\Shared\obj\Debug\net6.0\refint\shared.dll
 C:\Users\lenovo\Desktop\.NET PROJECT\dotnetproj\Shared\obj\Debug\net6.0\shared.pdb
 C:\Users\lenovo\Desktop\.NET PROJECT\dotnetproj\Shared\obj\Debug\net6.0\ref\shared.dll
+G:\Génie Informatique 3\Dotnet\Project .Net Final\dotnetproj\Shared\bin\Debug\net6.0\shared.deps.json
+G:\Génie Informatique 3\Dotnet\Project .Net Final\dotnetproj\Shared\bin\Debug\net6.0\shared.dll
+G:\Génie Informatique 3\Dotnet\Project .Net Final\dotnetproj\Shared\bin\Debug\net6.0\shared.pdb
+G:\Génie Informatique 3\Dotnet\Project .Net Final\dotnetproj\Shared\obj\Debug\net6.0\shared.csproj.AssemblyReference.cache
+G:\Génie Informatique 3\Dotnet\Project .Net Final\dotnetproj\Shared\obj\Debug\net6.0\shared.GeneratedMSBuildEditorConfig.editorconfig
+G:\Génie Informatique 3\Dotnet\Project .Net Final\dotnetproj\Shared\obj\Debug\net6.0\shared.AssemblyInfoInputs.cache
+G:\Génie Informatique 3\Dotnet\Project .Net Final\dotnetproj\Shared\obj\Debug\net6.0\shared.AssemblyInfo.cs
+G:\Génie Informatique 3\Dotnet\Project .Net Final\dotnetproj\Shared\obj\Debug\net6.0\shared.csproj.CoreCompileInputs.cache
+G:\Génie Informatique 3\Dotnet\Project .Net Final\dotnetproj\Shared\obj\Debug\net6.0\shared.dll
+G:\Génie Informatique 3\Dotnet\Project .Net Final\dotnetproj\Shared\obj\Debug\net6.0\refint\shared.dll
+G:\Génie Informatique 3\Dotnet\Project .Net Final\dotnetproj\Shared\obj\Debug\net6.0\shared.pdb
+G:\Génie Informatique 3\Dotnet\Project .Net Final\dotnetproj\Shared\obj\Debug\net6.0\ref\shared.dll

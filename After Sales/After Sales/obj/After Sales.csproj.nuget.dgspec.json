@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\After Sales.csproj": {}
+    "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\After Sales.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\After Sales.csproj": {
+    "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\After Sales.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\After Sales.csproj",
+        "projectUniqueName": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\After Sales.csproj",
         "projectName": "After Sales",
-        "projectPath": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\After Sales.csproj",
+        "projectPath": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\After Sales.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\After Sales\\After Sales\\obj\\",
+        "outputPath": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\After Sales\\After Sales\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -85,7 +85,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -97,7 +98,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

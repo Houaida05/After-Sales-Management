@@ -57,5 +57,17 @@ namespace ClientWebService.Repository
         {
             return await appDbContext.Products.FirstOrDefaultAsync(p => p.ProductId== productId);
         }
+
+        public async Task<Claim> UpdateClaim(Claim claim)
+        {
+            var claim1 =await appDbContext.Claims.FirstOrDefaultAsync(c => c.ClaimId == claim.ClaimId);
+            if (claim1 != null)
+            {
+                claim1.ClaimStatus= claim.ClaimStatus;
+                await appDbContext.SaveChangesAsync();
+
+            }
+            return claim1;
+        }
     }
 }

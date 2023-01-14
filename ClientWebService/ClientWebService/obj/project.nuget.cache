@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aDKOzdG7Td+/tqsAYEzdK7J3Lf6/2LH8sY5ZAfa6YMQIG3bw+na+lMGU7S1whx+zcuj0sVKANIIumfQ+XFjpmA==",
+  "dgSpecHash": "9ZijQ2emEP7hMmmIoBw8+ywvW31R1eTI+yMGD3J4c5LXFXdJbTYc5rKtcPWbjViklSE+2TD32EmCU1qdI3kBHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\ClientWebService\\ClientWebService\\ClientWebService.csproj",
+  "projectFilePath": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\ClientWebService\\ClientWebService\\ClientWebService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

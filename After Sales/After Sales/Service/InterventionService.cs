@@ -19,5 +19,10 @@ namespace After_Sales.Service
             return await httpClient.PostAsJsonAsync<Intervention>("intervention", intervention);
 
         }
+        public async Task<Intervention> GetIntervention(int interventionId)
+        {
+            return await httpClient.GetFromJsonAsync<Intervention>($"intervention/{interventionId}");
+
+        }
     }
 }

@@ -2,6 +2,7 @@
 using After_Sales.Model;
 using ClientWebService.Repository;
 
+
 namespace After_Sales.Service
 {
     public class ClaimService : IClaimRepository
@@ -23,9 +24,9 @@ namespace After_Sales.Service
 
         }
 
-        public Task<IEnumerable<Claim>> GetClaims()
+        public async Task<IEnumerable<Claim>> GetClaims()
         {
-            throw new NotImplementedException();
+            return await httpClient.GetFromJsonAsync<Claim[]>("Claim");
         }
 
         public async Task<IEnumerable<Claim>> GetClaimsByClient(string ClientName)
@@ -36,6 +37,12 @@ namespace After_Sales.Service
         public Task<Client> getClientByEmail(string email)
         {
             throw new NotImplementedException();
+        }
+
+        public async Task<HttpResponseMessage> updateClaim(int id, Claim updatedClaim)
+        {
+            return await httpClient.PutAsJsonAsync<Claim>($"Claim/{id}", updatedClaim);
+
         }
     }
 }

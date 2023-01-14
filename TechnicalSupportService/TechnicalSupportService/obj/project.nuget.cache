@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1tAL6VHAndnkBBERlkynRNErEuScm81m2LpzL2N3A8BBdLFdb1I9E9ZC7dQjZtW4hE5T2w1mUDSAEKtWA5hEIA==",
+  "dgSpecHash": "JCFDY8bDPaETRZ/aqW9sxlETP9/s0Um/VHZHve11Ojy/jz8GPFWqy2Mh7uxXM3RlfgNkCalpFHUlNjMRJoBwaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lenovo\\Desktop\\.NET PROJECT\\dotnetproj\\TechnicalSupportService\\TechnicalSupportService\\TechnicalSupportService.csproj",
+  "projectFilePath": "G:\\Génie Informatique 3\\Dotnet\\Project .Net Final\\dotnetproj\\TechnicalSupportService\\TechnicalSupportService\\TechnicalSupportService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

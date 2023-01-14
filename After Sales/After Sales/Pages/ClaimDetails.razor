@@ -10,32 +10,31 @@
 }
 else
 {
- <div class="row">
-  <div class="col-md-7">
+
      <div class="row justify-content-center m-3">
-        <div class="col-sm-8">
+        <div class="col-sm-6">
             <div class="card">
                 <div class="card-header">
-                    <h1>@claim.ClaimId </h1>
-                <div class="card-body text-center">
+                <div class="card-body">
+
                    <h2>@claim.Subject</h2>
+                   <hr />
                    <p>@product.ProductName</p>
 
-                      
+                   
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
-
+   
   </div>
-  <div class="col-md-5">
+  @if(isAdmin){
+  <div class="col-md-3">
     <MatCard class="demo-mat-card">
            
                     <MatHeadline6 class="demo-mat-card-clean-margin">
-                       Add Claim 
+                       Add Intervention 
                        </MatHeadline6>
-                    <MatCardContent>
+                   
                        <EditForm Model="@intervention" OnValidSubmit="createIntervention">
     <hr/>
    @* <div class="form-group row">      
@@ -48,42 +47,56 @@ else
                      </MatTextField>
              </div>*@
                <div class="form-group row">
-        
-            <MatSelect  Label="Spare Part" @bind-Value="@intervention.SparePartId"> 
-        
-        @foreach (var s in SpareParts)
+
+                            <MatSelect Label="Spare Part" @bind-Value="@intervention.SparePartId" Disabled=@claim.ClaimStatus>
+
+                                @foreach (var s in SpareParts)
         {
             <MatOption Value="@s.SparePartId">@s.SparePartName</MatOption>
         }
-    </MatSelect>
+    </MatSelect >
             </div>
            
                <div>
-            <MatCheckbox @bind-Value="@intervention.Warranty" Label="@(getLabel(intervention.Warranty))"></MatCheckbox>
+                            <MatCheckbox @bind-Value="@intervention.Warranty" Label="@(getLabel(intervention.Warranty))" Disabled=@claim.ClaimStatus></MatCheckbox>
         </div>
          <div class="form-group row">
                 <MatButton Type="button"
-                    @onclick="@(() => GetTotalFee(@intervention.SparePartId))">
+                                   @onclick="@(() => GetTotalFee(@intervention.SparePartId))" Disabled=@claim.ClaimStatus>
                 Get Total Fee
             </MatButton>
                 </div>
                 <div class="form-group row">
-                    <MatChipSet>
-                        <MatChip Style="color='red';">@intervention.fees</MatChip>
-                    </MatChipSet>
+                        @if (claim.ClaimStatus)
+                        {
+                            <p style="margin-left:35%; margin-top: 25px; color: red">
+                                @fee
+                            </p>
+
+                        }
+                        @if (!claim.ClaimStatus)
+                        {
+                            <p style="margin-left:35%; margin-top: 25px; color: red">
+                                @intervention.fees
+                            </p>
+
+                        }
+                           
+                    
                 </div>
-             <br /> 
-        <MatIconButton type="submit" class="but">
+             <br />
+                        <MatIconButton type="submit" class="button" Disabled=@claim.ClaimStatus>
             <MatIcon>@MatIconNames.Touch_app</MatIcon>
         </MatIconButton>
 </EditForm>
-           </MatCardContent>
+           
                
 
             
         </MatCard>
   
   </div>
+        }
 </div>
    
 }

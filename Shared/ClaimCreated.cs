@@ -4,5 +4,7 @@
     {
         public int ClaimId { get; set; }
         public string Subject { get; set; }
+        
+
     }
 }

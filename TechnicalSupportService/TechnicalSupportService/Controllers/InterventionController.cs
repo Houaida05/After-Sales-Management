@@ -57,6 +57,7 @@ namespace TechnicalSupportService.Controllers
             }
         }
 
+
         [HttpGet("{id:int}")]
         public async Task<ActionResult<Intervention>> GetIntervention(int id)
             {
